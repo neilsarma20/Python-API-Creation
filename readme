@@ -1,0 +1,3 @@
+1	Go through the wireframe in the image, it is a page where a user can create a nudge for his/her event
+2	Create a Object data model for the Nudge.
+3	Write a documentation about how the api structure should be. The documentation should include the types of requests you want to perform, base url, API Endpoints, Payload and the description about the API
